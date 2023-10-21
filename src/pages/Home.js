@@ -39,7 +39,7 @@ export default HomePage;
 async function loadWeather(currentLocation) {
 
   const response = await fetch(
-    `http://api.weatherapi.com/v1/forecast.json?key=cd5f9d8f1f0b420b886114301231210&q=${currentLocation}&days=7&aqi=no&alerts=no`,
+    `https://api.weatherapi.com/v1/forecast.json?key=cd5f9d8f1f0b420b886114301231210&q=${currentLocation}&days=7&aqi=no&alerts=no`,
     {
       headers: {
         "X-Authorization": "cd5f9d8f1f0b420b886114301231210",
