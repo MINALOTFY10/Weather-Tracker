@@ -1,0 +1,15 @@
+.weather-row {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  -ms-overflow-style: none; 
+  scrollbar-width: none; 
+  cursor: grab; 
+
+}
+
+
+
+.weather-row::-webkit-scrollbar {
+  display: none;
+}

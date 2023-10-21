@@ -1,0 +1,26 @@
+.card {
+  background-color: white;
+  width: fit-content;
+  height: 28vh;
+  text-align: center;
+  padding: 20px 20px 30px 20px;
+  border-radius: 8px;
+  margin: 15px 50px 5px 15px;
+  width: 100%;
+}
+.card:first-child {
+  margin-left: 0;
+}
+
+.card:last-child {
+  margin-right: 0;
+}
+
+.title {
+  color: #8b8b90ba;
+  text-align: start;
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin: 0;
+  margin-bottom: 7px;
+}

@@ -1,0 +1,25 @@
+.arrow-container {
+    width: fit-content;
+    height: fit-content;
+    padding: 9px 16px;
+    border-radius: 50%;
+    background: linear-gradient(to bottom right, #fdda5a84, #ffc75e);
+    color: white;
+    margin-right: 10px;
+}
+
+.time {
+    padding: 0;
+    margin: 0;
+    font-size: 0.9rem;
+    font-weight: 700;
+}
+
+.calc{
+    padding: 0;
+    margin: 0;
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-align: start;
+    color: rgba(128, 128, 128, 0.79);
+}

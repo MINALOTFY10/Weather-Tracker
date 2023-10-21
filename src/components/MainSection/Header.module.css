@@ -1,0 +1,30 @@
+button {
+  width: 37px;
+  height: 37px;
+  border-radius: 80%;
+  border-width: 0px;
+  background-color: white;
+  color: var(--color-socend);
+  padding: 0;
+  margin: 0;
+  font-weight: 600;
+}
+
+.button {
+  cursor: pointer;
+  font-weight: 600;
+  color: rgba(128, 128, 128, 0.744)
+}
+
+.button:nth-child(2) {
+  margin-left: 4px;
+}
+
+.Active {
+    background-color: var(--color-primary);
+    color: white;
+}
+
+.duration-active {
+  color: var(--color-primary);
+}

@@ -1,0 +1,9 @@
+.card {
+  margin: auto auto;
+  margin: calc(8vh / 2) auto;
+  background-color: white;
+  padding: 0rem;
+  max-width: 90vw;
+  max-height: auto;
+  display: flex;
+}

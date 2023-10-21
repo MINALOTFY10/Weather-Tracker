@@ -1,0 +1,66 @@
+.uv-index-container {
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  color: white;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.uv-index-content {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.uv-index-value {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.uv-index-level {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.uv-low {
+  background: linear-gradient(to bottom right, #7ed321, #9d9d9d);
+}
+.low {
+  color: #7ed321;
+}
+
+.uv-moderate {
+  background: linear-gradient(to bottom right, #ffeb3b, #9d9d9d);
+}
+.moderate {
+  color: #ffeb3b;
+}
+
+.uv-high {
+  background: linear-gradient(to bottom right, #ffb300, #9d9d9d);
+}
+.high {
+  color: #ffb300;
+}
+
+.uv-very-high {
+  background: linear-gradient(to bottom right, #ff5722, #9d9d9d);
+}
+.very-high {
+  color: #ff5722;
+}
+
+.uv-extreme {
+  background: linear-gradient(to bottom right, #f44336, #e53935);
+}
+.extreme {
+  color: #f44336;
+}

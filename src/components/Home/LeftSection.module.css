@@ -1,0 +1,79 @@
+.bar {
+    position: relative;
+    background-color: white;
+    width: 20%;
+    padding: 1rem 1.7rem;
+}
+
+.temperture h1 {
+    font-weight: 600;
+    font-size: 3.2rem;
+}
+
+
+.temperture h3 {
+    font-weight: 700;
+    font-size: 1.7rem;
+}
+
+.day {
+    border-bottom: 3px solid #f7f7f7;
+}
+
+.day h5{ 
+    font-weight: 600;
+    font-size: 1.3rem;
+}
+
+.day h6{
+    color: var(--color-socend);
+    font-size: 1.1rem;
+    font-weight: 500;
+    margin-top: auto;
+}
+
+.status img {
+    height: 18px;
+    width:  auto;
+}
+
+.status p {
+    font-size: 0.8rem;
+    font-weight: 650;
+}
+
+.city-container {
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+
+.city-img {
+    filter: hue-rotate(110deg);
+    -webkit-filter: hue-rotate(110deg);
+    width: 98%;
+}
+
+.overlayed-text {
+    position: absolute;
+    top: 50%;
+    left: 47%;
+    transform: translate(-40%, -40%);
+    font-size: 1em;
+    font-weight: 600;
+    -webkit-transform: translate(-40%, -40%);
+    -moz-transform: translate(-40%, -40%);
+    -ms-transform: translate(-40%, -40%);
+    -o-transform: translate(-40%, -40%);
+}
+
+
+.search-bar-container {
+    margin: 20px auto 20px auto;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 200px;
+  }

@@ -1,0 +1,23 @@
+.p-first {
+  color: rgba(128, 128, 128, 0.749);
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-right: 5px;
+}
+
+.p-socend {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.bad-quality {
+    color: red;
+}
+
+.average {
+  color: #ffc85f;
+}
+
+.good-quality {
+  color: #5a9afd;
+}

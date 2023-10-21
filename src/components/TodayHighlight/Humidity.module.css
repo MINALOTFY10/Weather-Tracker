@@ -1,0 +1,26 @@
+
+.result-container {
+    text-align: start;
+  align-items: flex-end;
+  width: fit-content;
+}
+
+.heading {
+  font-size: 3.2rem;
+  font-weight: 600;
+  /* margin-bottom: -0.24em; */
+}
+
+.measure {
+  font-size: 1.5rem;
+  color: rgba(128, 128, 128, 0.607);
+  font-weight: 600;
+}
+
+.icon-container {
+  padding: 5px 11px;
+  background-color: #eff6ff;
+  width: fit-content;
+  border-radius: 50%;
+  height: fit-content;
+}

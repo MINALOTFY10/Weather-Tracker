@@ -1,0 +1,30 @@
+.container {
+  position: relative;
+  height: 105px;
+  width: fit-content;
+  border-radius: 20px;
+  padding: 0px 17px;
+  margin-left: auto;
+  margin-right: 0;
+  margin-right: 10px;
+  background: linear-gradient(to bottom, #eef5ff, #eff6ff, #87bdfa4d);
+}
+
+.green-container {
+    background: linear-gradient(to bottom, #fefbea6d, #fefbeaa1, #fcf5cb);
+
+}
+
+.ball {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #5b9bff;
+  left: 50%;
+  transform: translate(-50%, -120%);
+}
+
+.green {
+    background-color: #fdd35d;
+}
