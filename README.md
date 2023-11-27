@@ -4,6 +4,10 @@ Live website: https://weather-site-1bdh.vercel.app/
 ## Overview
 
 This repository hosts a React-based weather application designed to provide comprehensive weather information. The app comprises various components, layouts, and functionalities to deliver a user-friendly experience.
+<div align="center">
+  <img src="./App Screenshots/one.png" alt="Application Screenshot" height="400">
+</div>
+
 
 ## Technology Stack
 
