@@ -1,4 +1,4 @@
-# Weather React App
+# Weather Tracker
 Live website: https://weather-site-1bdh.vercel.app/
 
 ## Overview
